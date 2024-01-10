@@ -850,9 +850,9 @@ img{
 	-o-transition:all 500ms ease;
 }
 
-.sticky-header .main-menu .navigation > li > a{
+/* .sticky-header .main-menu .navigation > li > a{
 	padding:23px 0px;
-}
+} */
 
 .main-menu .navigation > li > ul > li > a:before{
 	position:absolute;
