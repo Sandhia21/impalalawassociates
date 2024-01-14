@@ -2979,7 +2979,7 @@ img{
 
 .main-footer .widgets-section{
 	position:relative;
-	padding: 260px 0px 30px;
+	padding: 100px 0px 30px;
 }
 
 .main-footer .footer-column{
@@ -3308,7 +3308,7 @@ img{
 .case-section .inner-container{
 	position:relative;
 	margin-top:-180px;
-	padding:20px 20px;
+	/* padding:20px 20px; */
 	background-color:#ffffff;
 }
 
@@ -3682,7 +3682,7 @@ img{
 
 .services-page-section{
 	position:relative;
-	padding:110px 0px 70px;
+	/* padding:110px 0px 70px; */
 }
 
 .services-block-three{
@@ -6620,4 +6620,10 @@ img{
 		height: 4rem;
 	}
 
+}
+.unequal-img{
+	height: 100%;
+	width: 100%;
+	/* aspect-ratio: 3/5; */
+	object-fit: fill;
 }
