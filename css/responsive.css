@@ -156,7 +156,7 @@
 @media only screen and (max-width: 1023px){
 
 	.unequal-img{
-		object-fit: fill;
+		object-fit: inherit;
 	}
 	.main-header .main-box .logo-box{
 		position:relative;
