@@ -584,8 +584,8 @@ img{
 .small-logo-img{
 	max-height: 100px;
 }
-#long-img{
-	height:1030px;
+.long-img{
+	height:1000px;
 }
 
 .main-header .header-upper{
