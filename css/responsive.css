@@ -155,9 +155,12 @@
 
 @media only screen and (max-width: 1023px){
 
-	.unequal-img{
+	/* .unequal-img{
 		object-fit: inherit;
-	}
+	} */
+	/* .height-img{
+		height: 240px;
+	} */
 	.main-header .main-box .logo-box{
 		position:relative;
 		left:0px;
@@ -881,6 +884,9 @@
 }
 
 @media only screen and (max-width: 599px){
+	.height-img{
+		height: 280px;
+	}
 	
 	.banner-section .content-column .title{
 		letter-spacing:1px;
