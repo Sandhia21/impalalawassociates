@@ -884,9 +884,6 @@
 }
 
 @media only screen and (max-width: 599px){
-	.height-img{
-		height: 280px;
-	}
 	
 	.banner-section .content-column .title{
 		letter-spacing:1px;
@@ -1001,6 +998,9 @@
 
 @media only screen and (max-width: 479px) {
 	
+	.height-img{
+		height: 280px;
+	}
 	.banner-section .content-column .title{
 		padding-right:0px;
 		letter-spacing:0px;
